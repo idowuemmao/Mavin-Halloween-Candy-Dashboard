@@ -3,6 +3,10 @@
 
 ### Maven Analytics Challenge: Candy Selection for Halloween
 
+![Dashboard 1](https://github.com/user-attachments/assets/3554a5e7-170b-4767-91ab-d64716fb1f4d)
+
+![Dashboard 2](https://github.com/user-attachments/assets/a921a0fc-da64-4d30-96e4-c14c829f35f6)
+
 This is my first attempt at a Maven Analytics challenge, and it has truly brought out the best in me. It allowed me to apply everything I've learned so far in Power BI while enjoying the challenge of delivering actionable insights. In this project, I played both the analyst and stakeholder roles, which helped me self-examine and justify my choices, balancing the benefits for both myself and the trick-or-treaters. My goal was to ensure that all trick-or-treaters leave with a treat they love while maintaining cost efficiency.
 
 ### **Project Goal:**
